@@ -46,7 +46,7 @@ export default {
   data() {
     return {
       products: [],
-      baseURL: "http://localhost:8080/products"
+      baseURL: "http://51.21.199.182/products"
     };
   },
   mounted() {

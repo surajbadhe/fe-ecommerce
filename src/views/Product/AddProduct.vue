@@ -96,8 +96,8 @@ export default {
       imageUrl: "",
       categoryId: null,
       categories: [], // list of categories
-      baseURL: "http://localhost:8080/products",
-      categoryURL: "http://localhost:8080/categories/all"
+      baseURL: "http://51.21.199.182/products",
+      categoryURL: "http://51.21.199.182/categories/all"
     };
   },
   methods: {

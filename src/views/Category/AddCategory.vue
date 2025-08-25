@@ -71,7 +71,7 @@ export default {
       categoryName: "",
       description: "",
       imageURL: "",
-      baseURL: "http://localhost:8080/"
+      baseURL: "http://51.21.199.182/"
     };
   },
   methods: {

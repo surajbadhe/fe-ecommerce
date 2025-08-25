@@ -128,7 +128,7 @@ export default {
   data() {
     return {
       categories: [],
-      baseURL: "http://localhost:8080/categories/"
+      baseURL: "http://51.21.199.182/categories/"
     };
   },
   methods: {
